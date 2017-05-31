@@ -4,5 +4,5 @@ When we talk about municipal spending, one of the biggest areas of contention an
 + To develop and promote a common schema for the publication of procurement data online in a machine-readable format so as to make it easier to share and compare procurement policies between different municipalities.
 
 ### Short-term goal
-Continue the process of gathering `discretional` and `formal` purchasing thresholds for competitive bidding from at least the top 100 most populous U.S. cities. That work [has begun already](http://openprocure.us). 
+Continue the process of gathering `discretional` and `formal` purchasing thresholds for competitive bidding from at least the top 150 most populous U.S. cities. That work [has begun already](http://openprocure.us). 
 
